@@ -1,0 +1,79 @@
+{
+  "Podcasts": [
+    {
+      "Podcasts": "Avengers",
+      "Date": 2012,
+      "duration": "141 min",
+      "Desc": "A new age begins",
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg",
+ },
+    {
+      "Podcast": "Interstellar",
+      "date": 2014,
+      "duration": "169 min",
+      "Desc": "Mankind was born on Earth. It was never meant to die here.",
+
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/interstellar.jpg",
+    },
+	{
+      "Podcast": "Fantastic Four",
+      "date": 2015,
+      "duration": "100 min",
+      "Desc": "Change is coming.",
+
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/f_four.jpg",
+    },
+	{
+      "Podcast": "The Dark Knight",
+      "date": 2008,
+      "duration": "152 min",
+      "Desc": "Why So Serious?",
+
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/dark_knight.jpg",
+    },
+    {
+      "Podcast": "The Lord of the Rings: The Return of the King",
+      "date": 2003,
+      "duration": "201 min",
+      "Desc": "This Christmas the journey ends.",
+
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lotr.jpg",
+    },
+    {
+      "Podcast": "Life Is Beautiful",
+      "date": 1997,
+      "duration": "116 min",
+      "Desc": "An unforgettable fable that proves love, family and imagination conquer all.",
+
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/life_is_beautiful.jpg",
+    },
+    {
+      "Podcast": "Gladiator",
+      "date": 2000,
+      "duration": "155 min",
+      "Desc": "Father of a murdered son, husband to a murdered wife and I shall have my vengeance in this life or the next",
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/gladiator.jpg",
+    },
+    {
+      "Podcast": "The Lion King",
+      "date": 1994,
+      "duration": "89 min",
+      "Desc": "The King Has Returned.",
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lion.jpg",
+    },
+    {
+      "Podcastovie": "WALL-E",
+      "date": 2008,
+      "duration": "98 min",
+      "Desc": "He's got a lot of time on his hands.",
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/walle.jpg",
+    },
+    {
+      "Podcast": "Saving Private Ryan",
+      "date": 1998,
+      "duration": "169 min",
+      "Desc": "There was only one man left in the family, and the mission was to save him",
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/saving_private_ryan.jpg",
+    }   
+  ]
+}
